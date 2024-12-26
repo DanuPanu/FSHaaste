@@ -3,3 +3,4 @@ node_modules
 .turbo
 .vscode
 apps/web/.next/
+.env.local
